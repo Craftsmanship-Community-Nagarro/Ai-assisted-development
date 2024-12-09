@@ -322,3 +322,6 @@ __pycache__/
 *.odx.cs
 *.xsd.cs
 .vscode
+Java/target/classes/org/nagarro/Hello.class
+Java/target/classes/org/nagarro/Hello.class
+Java/target/test-classes/org/nagarro/HelloTest.class
